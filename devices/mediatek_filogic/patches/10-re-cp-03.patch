@@ -30,4 +30,3 @@
 +  IMAGE/sysupgrade.bin := sysupgrade-tar | append-metadata
  endef
  TARGET_DEVICES += jdcloud_re-cp-03
- 
